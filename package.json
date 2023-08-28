@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build-gh": "export REPOSITORY_NAME=sagemaker-annotation-converter && rm -rf docs && rm -rf .next && npm run build && mv out docs && touch docs/.nojekyll",
     "start": "next start",
     "lint": "next lint",
     "test": "jest --watch"
