@@ -9,7 +9,7 @@ export default function Header() {
             SageMaker Annotation Converter
           </Typography>
 
-          <Link href="https://github.com/iwstkhr" target="_blank">
+          <Link href="https://github.com/iwstkhr/sagemaker-annotation-converter" target="_blank">
             <Avatar alt="iwstkhr" src="./images/github-mark-white.png" />
           </Link>
         </Toolbar>
